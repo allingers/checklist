@@ -1,5 +1,5 @@
 ### Checklist - typescript project
-- Add
-- Check off
+- Add tasks
+- Check off tasks
 - Delete specific tasks
-- Clear the list
+- Clear the list of all tasks
